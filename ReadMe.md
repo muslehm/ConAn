@@ -1,5 +1,4 @@
-The following repository includes the [data](https://github.com/muslehm/ConAn/tree/main/dashboard%20code/assets/data) and [dashboard python code](https://github.com/muslehm/ConAn/tree/main/dashboard%20code/assets/data) used in the user study (including [one example](https://github.com/muslehm/ConAn/tree/main/dashboard%20code/results/55314466) from the study results) and the R code to analyze the provenance. 
-[Repository](https://github.com/muslehm/ConAn/tree/main/Analysis%20code): [https://github.com/muslehm/ConAn/tree/main](https://github.com/muslehm/ConAn/tree/main/Analysis%20code)
+This repository includes the data and dashboard python code used in the user study (including one example from the study results) and the R code to analyze the provenance. 
 
 **Compile and run the dashboard code** on your server to conduct the study.
 
