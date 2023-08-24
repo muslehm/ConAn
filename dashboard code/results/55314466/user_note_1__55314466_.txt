@@ -1,0 +1,1 @@
+"Bed 1 should have either tubers or fruits\nBed 2 should have either fruits or legumes\nBed 3 should have either roots or greens\nBed 4 could have any"

@@ -1,0 +1,1 @@
+"Bed 1 should have greens or fruits\nBed 2 should have roots or greens\nBed 3 can have any\nBed 4 should have fruits  or tubers\n\nwould be nice to have a view to sort the crops by type\n"

@@ -1,0 +1,15 @@
+figure=0
+answer=0
+title=Main Tasks
+In sustainable farming, crops are planted with companions to improve the soil quality and prevent diseases. Each crop is planted under certain weather conditions to succeed. Thus, a farmer will need to analyze several weather and crop data to make an accurate planting decision.
+<br>
+In this study, you will be provided with task criteria in the right panel of your screen. This criteria includes:
+1- The <b>month</b> you are making the decision
+2- The land area and each area of each bed. A <b>bed</b> is a section in a land where you actually plant the crops.
+3- The type of crops planted in each bed in the previous three years (legumes, roots, greens or tubers).
+<br>
+The dashboard includes three main sections:
+1- Weather data analysis (one filterable visual plot)
+2- Crops information (farming calender and technical) (several visual plots)
+3- Companion Information (one filterable visual plot)
+<br>

@@ -1,0 +1,13 @@
+figure=0
+answer=0
+title=Decisions
+You will be expected to decide on three main questions, in that order:
+1- What is the main crop that you will plant in each bed?
+2- What is the companion crop that you will plant with each main crop?
+3- In which week exactly would you plant the crops in the bed?
+<br>
+Note that all of the 38 crops visualized in the data in this dashboard could be used as a main crop or a companion crop. You may you also want to plant only one crop in a bed if you don't think that any crop is a good companion. You will do that by selecting the same crop in both the main crop and companion crop sections.
+<br>
+You need to make decisions for five different beds. Beds can have similar or different crops planted. You decide.
+<br>
+Your aim is to sell 60% of your crops, and keep 40% for your household. Thus, your decision is based on both profitability and preference.

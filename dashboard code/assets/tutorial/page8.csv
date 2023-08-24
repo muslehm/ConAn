@@ -1,0 +1,14 @@
+figure=technical
+answer=3.6
+title=Crop Information(2)
+The second view in the <b>Crop Information</b> section provides information on planting distances, crop yields and crop prices.
+<br>
+The crop prices plot presents information in a heatmap like the previous view. However, the distances and yields are bar plots.
+<br>
+Note that the distances are in <b>cm</b>, and the provided bed area is in <b>meter squares</b>. Always assume the width of the bed is <b>1m</b>. For example, a bed with 32 meter square area, has a width of 1m and a length of 32m. Also, assume that you may plant only two rows of crops in one bed.
+<br>
+To extract information from a bar plot, you simply hover over the bars and the information pops up.
+<br>
+Now let's try and use a bar plot to extract data. What is the expected average <b>yield</b> for <b>Garlic</b>?
+<br>
+Write your response in the textbox above the plot (only the number) and click on <b>Next</b>.

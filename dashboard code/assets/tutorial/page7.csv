@@ -1,0 +1,18 @@
+figure=calendar
+answer=24
+title=Crop Information(1)
+In the <b>Crop Information</b> section, you have two simultaneous views. The first view provides information on planting and growing periods and temperatures.
+<br>
+It presents information in a heatmap. The legend on the right of the heatmap provides references for easy of exploration.
+<br>
+To extract information, you simply hover over the boxes, which presents a horizontal and vertical spikes and pops a label with information.
+<br>
+You have four options of heatmap:
+1- Farming Calendar: presents general ideal month of only planting, planting AND harvesting, or only harvesting of each crop.
+2- Planting: presents exact temperatures of ideal low/high and minimum/maximum for planting.
+3- Growing: presents exact temperatures of ideal low/high and minimum/maximum for growing.
+4- Harvest: presents minimum and maximum weeks until you could start harvesting.
+<br>
+Now let's try and use a heatmap plot to extract data. What is the <b>ideal high temperature</b> for <b>growing</b> of <b>Basil</b>?
+<br>
+Write your response in the textbox above the plot (only the number) and click on <b>Next</b>.

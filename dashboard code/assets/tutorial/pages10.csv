@@ -1,0 +1,18 @@
+figure=weather
+answer=12.1
+title=Weather Analysis(2)
+Note that you may find several suitable companions for each main crop. To make the best decision, you need to explore information about the companion crop in the <b>Crop Information</b> section views.
+<br>
+After you make a main crop and a companion crop decision, you need to decide on the best week to plant the crops in a bed. You <b>do not</b> need to plant all beds in the same week. You want to make your decision based on considerations of profitability.
+<br>
+Planting a crop few weeks before or after its usual time means that you will harvest when prices are higher than usual. It will also mean that you can avoid seasonal diseases that affect a certain plant.
+<br>
+To decide on an appropriate week, it's important to consider planting and growing temperatures you received from the <b>Crop Information</b> section.
+<br>
+After you have all the information, you need to go to the <b>Weather Analysis</b> section to check the weather averages for each week around the period of intended planting. Thus, you select the "Weekly" radio button. on the bottom left.
+<br>
+Hover over the plot to explore the data. Look out for previous recorded frosts (below 4 degrees Celsius) or heatwaves (above 35 degrees). These are uncertainties and past averages. You make your decisions based on your assessment of the data and its uncertainty.
+<br>
+One last time, let's try it. Filter to the plot below to the <b>weekly</b> plot, and choose the <b>year range 2007 and 2020</b>. What is the average of total <b>precipitation</b> of <b>Week 48</b>?
+<br>
+Write your response in the textbox above the plot (only the number) and click on <b>Next</b>.

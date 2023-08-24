@@ -1,0 +1,39 @@
+Crop,planting_ideal_low,planting_ideal_high,planting_min,planting_max,planting_season,growing_ideal_low,growing_ideal_high,growing_min,growing_max,min_to_cultivation_weeks,max_to_cultivation_weeks,planting_distance,crop_yield
+Aubergine,12,25,9,28,Spring,21,29,18,35,11,15,60,8.8
+Basil,9,16,6,21,Spring,21,24,18,27,8,10,30,0.3
+Beet,17,24,15,28,Autumn,16,18,7,24,8,10,10,0.11
+Broad Beans,16,25,13,28,Autumn,16,18,4,24,13,15,2,2.66
+Broccoli,17,27,12,30,Summer,16,18,4,24,13,15,5,0.5
+Cabbage,16,24,13,28,Autumn,16,18,4,24,10,13,50,1.1
+Carrot,11,19,4,29,Autumn,16,18,7,24,10,13,5,1
+Cauliflower,17,24,15,28,Autumn,16,18,7,24,10,13,50,1
+Chamomile,11,19,11,19,Autumn,18,24,4,32,3,4,1,0.15
+Coriander,11,21,11,21,Spring,16,18,4,24,3,4,30,0.15
+Corn,11,16,8,21,Spring,16,24,10,35,13,15,30,1.77
+Cucumber,14,25,11,29,Spring,18,24,16,32,8,10,30,4.8
+Garlic,15,24,11,28,Autumn,13,24,7,29,13,15,10,3.6
+Green Beans,14,25,11,29,Spring,16,18,6,24,6,8,5,0.416
+Hot Pepper,19,29,11,35,Spring,21,29,18,35,8,12,5,1.6
+Lettuce,15,19,11,24,Autumn,16,18,7,24,8,10,30,0.3
+Melon,14,25,11,29,Spring,18,24,16,32,13,14,10,6
+Mint,9,16,6,21,Spring,21,24,18,27,6,8,15,0.15
+Okra,14,25,11,28,Spring,21,29,18,35,9,10,5,0.648
+Onion,15,19,11,24,Autumn,13,24,7,29,14,22,10,0.275
+Oregano,11,19,11,19,Autumn,18,24,4,32,4,6,2,0.15
+Paprika,9,16,6,27,Spring,21,24,18,27,10,13,5,0.907
+Parsley,11,21,11,21,Spring,16,18,7,24,8,10,30,0.75
+Peas,6,19,4,25,Winter,16,18,7,24,8,13,2,0.206
+Potato,15,24,11,28,Autumn,16,18,7,24,13,14,30,1.26
+Pumpkin,11,21,11,21,Spring,18,24,10,32,13,16,180,6
+Radish,11,19,4,28,Autumn,16,18,4,24,5,11,3,0.117
+Rosemary,11,19,11,19,Autumn,18,24,4,32,3,4,1,0.15
+Sage,11,19,11,19,Autumn,18,24,4,32,3,4,1,0.15
+Spinach,11,19,4,28,Autumn,16,18,4,24,4,6,30,0.75
+Squash,11,21,11,21,Spring,18,24,10,32,8,9,180,0.396
+Sunflower,11,21,11,21,Spring,16,24,10,35,16,18,15,0.12
+Thyme,11,19,11,19,Autumn,18,24,4,32,3,4,1,0.15
+Tomato,14,25,11,29,Summer,21,24,18,27,8,10,90,3.6
+Turnip,8,19,4,24,Winter,16,18,4,24,8,10,15,0.18
+Vigna,14,25,11,29,Spring,16,18,6,24,6,8,5,0.216
+Watermelon,19,28,17,29,Summer,21,29,18,35,13,15,8,14
+Zucchini,14,21,11,25,Spring,18,24,16,32,4,6,120,2.352

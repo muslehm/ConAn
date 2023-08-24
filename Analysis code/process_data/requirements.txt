@@ -1,0 +1,5 @@
+pandas
+networkx
+IPython==8.14.0
+matplotlib==3.7.2
+numpy

@@ -1,0 +1,10 @@
+figure=weather
+answer=30.9
+title=Weather Analysis(1)
+To get the weather data, you will use the integrated line and bar plot. You get the information by hovering over the points of interest.
+<br>
+The data in the plot represents the averages calculated for the past 20 years (2003-2022) of country X. If you suspect that weather in certain years contain outliers, you can use the slider below the plot (by moving the extreme white circles) to set a new year range and update the presented weather data.
+<br>
+Now let's try and use this plot to extract data. Filter the plot to the year range of 2012-2019 and find out what is the average <b>high temperature</b> for the month of <b>September</b>.
+<br>
+Write your response in the textbox above the plot (only the number) and click on <b>Next</b>.

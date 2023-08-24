@@ -1,0 +1,1 @@
+["Garlic", "Cabbage", "Week 42", "Carrot", "Oregano", "Week 48", "Onion", "Cabbage", "Week 47", "Broccoli", "Cauliflower", "Week 35"]

@@ -1,0 +1,21 @@
+figure=companion
+answer=chamomile
+title=Crop Companions(1)
+Note that the planting cycle of the bed keeps the soil healthy and reduces probability of diseases. Thus, in a four year cycle, it is recommended to alternate between crop types:legume, roots, greens and tubers.
+<br>
+After you made a decision on a main crop(s), you need to make a decision on a companion crop. You may make the companion decision after choosing each main crop, or after choosing all crops. It's up to you!
+<br>
+To decide on a companion crop, you need to explore the <b>Crop Companions</b> section.
+<br>
+In this view, the data is again presented in a heatmap. You can choose between four companionship filters:
+1- Any: indicates a suitable companion for all reasons, even if it's a slight benefit.
+2- Insect Repellent: indicates suitability based on benefit in repelling specific insects that are harmful for the crop receiving the benefit
+3- Disease Control: indicates suitability based on benefit in controlling diseases common to infect the crop receiving the benefit
+4- Crop yield: indicates suitability based on improving the soil nutrition in a manner that improves the yield of the crop receiving the benefit
+<br>
+Note that the crop receiving the benefit is plotted on the left in the y-axis. And the crop giving the benefit (possible companion) is on top in the x-axis.
+<br>
+You get the information from the plot by hovering over it to get the spikes as a reference, while also using the color as a reference.
+Now let's try and use this plot to extract information. Which <b>companion crop</b> provides benefits in form of <b>Crop Yield</b> for <b>Cabbage</b>
+<br>
+Write your response in the textbox above the plot and click on <b>Next</b>.
